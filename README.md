@@ -1,6 +1,6 @@
 These are the codes for our projects in the ACMS60852 (Time Series Analysis) course. We conducted a time series analysis of the Seoul Bike Demand dataset.
 
-Dataset Source: Kaggle: Seoul Bike Sharing Demand Prediction
+Dataset Source: [Kaggle: Seoul Bike Sharing Demand Prediction](https://www.kaggle.com/datasets/saurabhshahane/seoul-bike-sharing-demand-prediction)
 
 After performing exploratory data analysis, we utilized two time series models and one neural network for prediction tasks:
 
